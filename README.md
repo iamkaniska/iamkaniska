@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
  
- 🔭 I'm currently working in **Student**
+ 🔭 I'm currently working in **Student **
  
  🌱 I'm currently learning **Docker**
 
@@ -28,7 +28,7 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=Js, react, nodeJs,React,Git,VsCode,Vercel" />
+    <img src="https://skillicons.dev/icons?i=javascript ,cpp," />
 </div>
 <hr/>
 
