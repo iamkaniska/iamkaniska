@@ -40,6 +40,13 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
+<!-- Holopin Badge -->
+<div align="center">
+  <a href="https://holopin.io/@iamkaniska">
+    <img src="https://holopin.me/iamkaniska" alt="Holopin Badge" />
+  </a>
+</div>
+
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com?user=iamkaniska&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=iamkaniska&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -50,7 +57,3 @@
 <hr/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamkaniska&theme=merko" alt="Kaniska Maity's GitHub activity graph"/>
-<br>
-[![iamkaniska's Holopin Badge](https://holopin.me/iamkaniska)](https://holopin.io/@iamkaniska)
-
-
