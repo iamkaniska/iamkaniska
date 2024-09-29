@@ -50,3 +50,7 @@
 <hr/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamkaniska&theme=merko" alt="Kaniska Maity's GitHub activity graph"/>
+<br>
+[![iamkaniska's Holopin Badge](https://holopin.me/iamkaniska)](https://holopin.io/@iamkaniska)
+
+
